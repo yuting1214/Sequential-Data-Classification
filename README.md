@@ -12,6 +12,7 @@ Problem description:
 - [Visualization](#Visualization)
 - [Model](#Model)
 - [Simulation](#Simulation)
+- [Summary](#Summary)
 - [Reference](#Reference)
 
 ## Transforming raw data
@@ -33,26 +34,13 @@ Visualize the raw data in **GIF** format.
 
 Main function:
 
-- **Dynamic Time Warping + K-Nearest Neighbors**
+- **Dynamic Time Warping + K Nearest Neighbors**
 
 - [Dynamic Time Warping](https://en.wikipedia.org/wiki/Dynamic_time_warping)
 
-- []
+- [K Nearest Neighbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
 
-- 
-
-
-
-```text
-folder1/
-└── folder2/
-    ├── folder3/
-    │   ├── file1
-    │   └── file2
-    └── folder4/
-        ├── file3
-        └── file4
-```
+- [Code]()
 
 ## Reference
 
