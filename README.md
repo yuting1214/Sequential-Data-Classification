@@ -8,7 +8,7 @@ Problem description:
 
 ## Outline
 
-- [Transforming raw data](https://duckduckgo.com)
+- [Transforming raw data](#Transforming raw data)
 - [Visualization](#status)
 - [Model](#whats-included)
 - [Simulation](#bugs-and-feature-requests)
@@ -19,9 +19,14 @@ Problem description:
 
 Transform the raw text data into csv file data.
 
-## Status
+## Visualization
 
-Here goes all the budgets
+Visualize the raw data and combine into **GIF**.
+
+-[Code](#status)
+
+-[Graph](#status)
+
 
 ## What's included
 
