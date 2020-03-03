@@ -32,7 +32,7 @@ Visualize the raw data in **GIF** format.
 
 ## Model
 
-- **Dynamic Time Warping + K Nearest Neighbors**
+**Dynamic Time Warping + K Nearest Neighbors**
 
 - [Dynamic Time Warping](https://en.wikipedia.org/wiki/Dynamic_time_warping)
 
@@ -48,7 +48,7 @@ Build some cross-validation functions to examine the performance of model.
 
 ## Summary
 
-- [Code]()
+- [Code](https://github.com/yuting1214/Sequential-Data-Classification/blob/master/Sum_up.R)
 
 ## Reference
 
