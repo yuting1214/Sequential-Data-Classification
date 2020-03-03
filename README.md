@@ -2,6 +2,10 @@
 
 A comprehensive pipeline to analyze **Sequential Data** with **Machine learning** algorithm.
 
+Problem description:
+
+- Use industrial data as input to **classify** output with **eight categories**.
+
 ## Outline
 
 - [Transforming raw data](https://duckduckgo.com)
