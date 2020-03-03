@@ -32,13 +32,21 @@ Visualize the raw data in **GIF** format.
 
 ## Model
 
-Main function:
-
 - **Dynamic Time Warping + K Nearest Neighbors**
 
 - [Dynamic Time Warping](https://en.wikipedia.org/wiki/Dynamic_time_warping)
 
 - [K Nearest Neighbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+
+- [Code](https://github.com/yuting1214/Sequential-Data-Classification/blob/master/Classification_function.R)
+
+## Simulation
+
+Build some cross-validation functions to examine the performance of model.
+
+- [Code](https://github.com/yuting1214/Sequential-Data-Classification/blob/master/Validation_Simulation.R)
+
+## Summary
 
 - [Code]()
 
