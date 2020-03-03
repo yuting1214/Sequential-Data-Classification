@@ -8,7 +8,7 @@ Problem description:
 
 ## Outline
 
-- [Transforming raw data](#Transforming-raw-data)
+- [Transforming raw data](#1.-Transforming-raw-data)
 - [Visualization](#Visualization)
 - [Model](#Model)
 - [Simulation](#Simulation)
