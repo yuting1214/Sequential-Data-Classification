@@ -35,6 +35,12 @@ Main function:
 
 - **Dynamic Time Warping + K-Nearest Neighbors**
 
+- [Dynamic Time Warping](https://en.wikipedia.org/wiki/Dynamic_time_warping)
+
+- []
+
+- 
+
 
 
 ```text
@@ -50,7 +56,4 @@ folder1/
 
 ## Reference
 
-Code and documentation copyright 2011-2018 the authors. Code released under the [MIT License](https://reponame/blob/master/LICENSE).
-
-Enjoy :metal:
-
+Montero, P and Vilar, J.A. (2014) TSclust: An R Package for Time Series Clustering. Journal of Statistical Software, http://www.jstatsoft.org/v62/i01/
