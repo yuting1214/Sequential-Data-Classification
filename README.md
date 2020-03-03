@@ -8,8 +8,8 @@ Problem description:
 
 ## Outline
 
-- [Transforming raw data](#Transforming raw data)
-- [Visualization](#status)
+- [Transforming raw data](#Transforming-raw-data)
+- [Visualization](#Visualization)
 - [Model](#whats-included)
 - [Simulation](#bugs-and-feature-requests)
 
@@ -28,9 +28,13 @@ Visualize the raw data and combine into **GIF**.
 -[Graph](#status)
 
 
-## What's included
+## Model
 
-Some text
+Main function:
+
+- **Dynamic Time Warping + K-Nearest Neighbors**
+
+
 
 ```text
 folder1/
