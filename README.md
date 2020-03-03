@@ -1,15 +1,14 @@
 # Sequential Data Classification
 
+A comprehensive pipeline to analyze **Sequential Data** with **Machine learning** algorithm.
+
 ## Outline
 
-- [Quick start](#quick-start)
-- [Status](#status)
-- [What's included](#whats-included)
-- [Bugs and feature requests](#bugs-and-feature-requests)
-- [Contributing](#contributing)
-- [Creators](#creators)
-- [Thanks](#thanks)
-- [Copyright and license](#copyright-and-license)
+- [Transforming raw data](https://duckduckgo.com)
+- [Visualization](#status)
+- [Model](#whats-included)
+- [Simulation](#bugs-and-feature-requests)
+
 
 
 ## Quick start
