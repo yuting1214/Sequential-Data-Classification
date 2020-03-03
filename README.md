@@ -11,13 +11,9 @@ A comprehensive pipeline to analyze **Sequential Data** with **Machine learning*
 
 
 
-## Quick start
+## Transforming raw data
 
-Some text
-
-- Instruction 1
-- Instruction 2
-- Instruction 3
+Transform the raw text data into csv file data.
 
 ## Status
 
