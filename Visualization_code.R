@@ -2,7 +2,7 @@
 library(ggplot2)
 library(stringr) # For str_trim 
 library(reshape2)
-### Date location
+### Data location
 root <-"C:/Users/陳昱廷/Desktop/Inform_manu_comp/comp_data_csv/" #Change
 setwd(root)
 fold_name <- list.files(pattern="G*")
