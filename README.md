@@ -19,13 +19,13 @@ Problem description:
 
 Transform the raw text data into csv file data.
 
-- [Code](https://github.com/yuting1214/Sequential-Data-Classification/blob/master/CSV_transform_code.R)
+- [Code](https://github.com/yuting1214/Sequential-Data-Classification/blob/master/code/CSV_transform_code.R)
 
 ## Visualization
 
 Visualize the raw data in **GIF** format.
 
-- [Code](https://github.com/yuting1214/Sequential-Data-Classification/blob/master/Visualization_code.R)
+- [Code](https://github.com/yuting1214/Sequential-Data-Classification/blob/master/code/Visualization_code.R)
 
 - [Graph](https://drive.google.com/open?id=1WqjVNABa9eerrl5czqzFTEs5ib4VCDDe)
 
@@ -38,17 +38,17 @@ Visualize the raw data in **GIF** format.
 
 - [K Nearest Neighbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
 
-- [Code](https://github.com/yuting1214/Sequential-Data-Classification/blob/master/Classification_function.R)
+- [Code](https://github.com/yuting1214/Sequential-Data-Classification/blob/master/code/Classification_function.R)
 
 ## Simulation
 
 Build some cross-validation functions to examine the performance of model.
 
-- [Code](https://github.com/yuting1214/Sequential-Data-Classification/blob/master/Validation_Simulation.R)
+- [Code](https://github.com/yuting1214/Sequential-Data-Classification/blob/master/code/Validation_Simulation.R)
 
 ## Summary
 
-- [Code](https://github.com/yuting1214/Sequential-Data-Classification/blob/master/Sum_up.R)
+- [Code](https://github.com/yuting1214/Sequential-Data-Classification/blob/master/code/Sum_up.R)
 
 ## Reference
 
