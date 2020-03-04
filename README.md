@@ -27,9 +27,7 @@ Visualize the raw data in **GIF** format.
 
 - [Code](https://github.com/yuting1214/Sequential-Data-Classification/blob/master/code/Visualization_code.R)
 
-![image](https://github.com/yuting1214/Sequential-Data-Classification/blob/master/gif/G11.gif)
-
-![An image](images/an_image.jpg) <!-- .element height="50%" width="50%" -->
+![image](https://github.com/yuting1214/Sequential-Data-Classification/blob/master/gif/G11.gif) 
 
 
 ## Model
